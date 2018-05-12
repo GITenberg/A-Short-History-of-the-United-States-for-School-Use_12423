@@ -1,5 +1,8 @@
 _repo: A-Short-History-of-the-United-States-for-School-Use_12423
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Channing, Edward
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4359
     wikipedia: http://en.wikipedia.org/wiki/Edward_Channing
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12423#A-Short-History-of-the-United-States-for-School-Use
 gutenberg_bookshelf:
 - Children's History
 - United States
